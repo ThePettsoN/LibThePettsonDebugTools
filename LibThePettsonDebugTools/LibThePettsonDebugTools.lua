@@ -1,4 +1,4 @@
-local MAJOR, MINOR = "ThePettsonDebugTools-1.0", 1
+local MAJOR, MINOR = "ThePettsonDebugTools-1.0", 2
 local DebugTools = LibStub:NewLibrary(MAJOR, MINOR)
 
 if not DebugTools then return end -- No upgrade needed
