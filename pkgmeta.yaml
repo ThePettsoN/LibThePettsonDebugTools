@@ -9,3 +9,5 @@ ignore:
     - LibThePettsonDebugTools.code-workspace
     - TODO.txt
     - LibStub
+    - LibThePettsonDebugTools.toc
+    - pkgmeta.yaml
