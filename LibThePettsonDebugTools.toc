@@ -1,0 +1,11 @@
+## Interface: 30400
+## Title: Lib: ThePettsonDebugTools
+## Author: ThePettsoN
+## Version: 1.0.0
+## Notes: Collection of tools used for quicker and easier develop and debug Addons
+## LoadOnDemand: 1
+## X-Category: Library
+## X-License: BSD-2.0
+
+LibStub\LibStub.lua
+LibThePettsonDebugTools\LibThePettsonDebugTools.xml

@@ -1,0 +1,11 @@
+package-as: LibThePettsonDebugTools
+enable-nolib-creation: no
+ignore:
+    - .git
+    - .gitignore
+    - .vscode
+    - local_development
+    - .gitignore
+    - LibThePettsonDebugTools.code-workspace
+    - TODO.txt
+    - LibStub
